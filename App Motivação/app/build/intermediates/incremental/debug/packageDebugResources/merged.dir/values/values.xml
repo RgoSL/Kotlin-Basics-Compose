@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="affirmation1">Eu Consigo 💪.</string>
+    <string name="affirmation10">Quando o Dia Brilhar, Eu Estarei lá Para Ver ❤️.</string>
+    <string name="affirmation2">Eu Acredito em mim 💪.</string>
+    <string name="affirmation3">Todo Dia é uma Oportunidade de Melhorar 💪.</string>
+    <string name="affirmation4">Os Desafios de Hoje São as Lições de Amanhã 💪.</string>
+    <string name="affirmation5">Eu Tenho o Potencial 💪.</string>
+    <string name="affirmation6">No Final Sempre da Certo ❤.</string>
+    <string name="affirmation7">Coisas Boas Virão ❤ .</string>
+    <string name="affirmation8">Eu Vou Seguir meu Coração ❤.</string>
+    <string name="affirmation9">É Tudo uma Questão de Tempo ❤.</string>
+    <string name="app_name">Motivação</string>
+    <style name="Theme.Affirmations" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

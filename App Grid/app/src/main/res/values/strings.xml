@@ -1,0 +1,42 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Cursos</string>
+    <string name="architecture">Arquitetura</string>
+    <string name="automotive">Automação</string>
+    <string name="biology">Biologia</string>
+    <string name="crafts">Montagem</string>
+    <string name="business">Negócios</string>
+    <string name="culinary">Culinária</string>
+    <string name="design">Design</string>
+    <string name="ecology">Ecologia</string>
+    <string name="engineering">Engenharia</string>
+    <string name="fashion">Moda</string>
+    <string name="finance">Finanças</string>
+    <string name="film">Cinema</string>
+    <string name="gaming">Gaming</string>
+    <string name="geology">Geologia</string>
+    <string name="drawing">Desenho</string>
+    <string name="history">Historia</string>
+    <string name="journalism">Jornalismo</string>
+    <string name="law">Direito</string>
+    <string name="lifestyle">Social Media</string>
+    <string name="music">Musica</string>
+    <string name="painting">Pintura</string>
+    <string name="photography">Fotografia</string>
+    <string name="physics">Fisíca</string>
+    <string name="tech">TI</string>
+</resources>
